@@ -19,3 +19,4 @@ Master meesage: This is master
 
 Feature1: This is feature1
 
+Forbid the using of fast forward!

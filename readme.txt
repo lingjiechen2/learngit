@@ -14,4 +14,8 @@ Multi content: This is message from another local branch: multi
 
 Dev content: This is message from dev
 
+
 Master meesage: This is master
+
+Feature1: This is feature1
+
